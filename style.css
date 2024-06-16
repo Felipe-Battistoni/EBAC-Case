@@ -1,0 +1,170 @@
+* {
+    font-family: Nunito, sans-serif;
+}
+
+.font-tech {
+    font-family: Share Tech Mono, sans-serif;
+}
+
+.navbar {
+    background-color: #596b55;
+}
+
+.navbar i {
+    color: #fff;
+}
+
+.navbar .nav-link {
+    color: #fff;
+}
+
+.sobre {
+    background-color: #ebebeb;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.sobre-a-ebac h2 {
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.sobre-alinhamento {
+    align-items: center;
+}
+
+.marcas h4 {
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.marcas .marcas-img img {
+    width: 60px;
+    transition: 0.5s;
+}
+
+.marcas .marcas-img img:hover {
+    scale: 1.1;
+}
+
+.produtos {
+    margin: 50px 0 50px 0;
+}
+
+.text-color {
+    color: #2d352b;
+    font-family: Share Tech Mono, sans-serif;
+}
+
+.titulo {
+    background-color: #ebebeb;
+} 
+
+.titulo-servico {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.servicos {
+    background-color: #596b55;
+}
+
+.servicos .card {
+    box-shadow: 5px 5px 15px #1c221b94;
+    margin-top: -60px;
+}
+
+.servicos .card .btn {
+    min-width: 200px;
+    background-color: #596b55;
+    border: #2d352b;
+    font-weight: 700;
+    transition: 0.2s;
+}
+
+.servicos .card .btn:hover {
+    scale: 1.1;
+    background-color: #2a3128;
+    border: #2d352b;
+    font-weight: 700;
+}
+
+.servicos .card h3, i {
+    color: #2d352b;
+}
+
+.produtos {
+    background-color: #ffffff;
+}
+
+.row .nav-acessorios .btn {
+    min-width: 100px;
+    background-color: #596b55;
+    border: #2d352b;
+    font-weight: 700;
+    transition: 0.2s;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.row .nav-acessorios .btn:hover {
+    scale: 1.1;
+    background-color: #2a3128;
+    border: #2d352b;
+    font-weight: 700;
+}
+
+.tab-pane .col-md-3 .btn {
+    min-width: 200px;
+    background-color: #596b55;
+    border: #2d352b;
+    font-weight: 700;
+    transition: 0.2s;
+}
+
+.tab-pane .col-md-3 .btn:hover {
+    scale: 1.1;
+    background-color: #2a3128;
+    border: #2d352b;
+    font-weight: 700;
+}
+
+.fale-conosco {
+    background-color: #ebebeb;
+}
+
+.social-links .fs-5 {
+    display: inline-block;
+    text-decoration: none;
+    justify-content: end;
+}
+
+.text-center .row {
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.form .btn {
+    width: 100%;
+    background-color: #596b55;
+    border: #2d352b;
+    font-weight: 700;
+    transition: 0.2s;
+}
+
+.form .btn:hover {
+    scale: 1.05;
+    background-color: #2a3128;
+    border: #2d352b;
+    font-weight: 700;
+}
+
+.midia-adress i {
+    color: #596b55;
+}
+
+.adress p {
+    padding-left: 35px;
+}
